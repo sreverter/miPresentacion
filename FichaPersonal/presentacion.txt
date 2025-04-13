@@ -3,5 +3,5 @@ Mi nombre es Santiago Reverter, tengo 25 años y es mi primer año cursando la c
 Licenciatura en Gestion de la Tecnologia de la Informacion.
 
 A nivel laboral soy desarrollador Front End, con javascript y el framework React.
-Pero actualmente trabajo como Proyect Leader en una agencia digital. En ella esta el sector
+Pero actualmente trabajo como Project Leader en una agencia digital. En ella esta el sector
 de diseño grafico y desarrollo web; yo trabajando en esta segunda.
